@@ -1,0 +1,4 @@
+# Ignore compiled python 2 files
+*.pyc
+# Ignore compiled python 3 files
+__pycache__
